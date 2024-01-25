@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { marked } from "https://cdn.jsdelivr.net/npm/marked/lib/marked.esm.js";
+import { marked } from "marked";
 import './App.css';
 
 function App() {
